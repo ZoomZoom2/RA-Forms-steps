@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RA-Forms-steps/static/css/main.4781550e.css",
+    "main.js": "/RA-Forms-steps/static/js/main.249ac68c.js",
+    "static/media/Montserrat-Regular.woff2": "/RA-Forms-steps/static/media/Montserrat-Regular.4d9eac545dbd8e6e6e7d.woff2",
+    "static/media/Montserrat-Regular.woff": "/RA-Forms-steps/static/media/Montserrat-Regular.2f9bb87d767918726ee3.woff",
+    "index.html": "/RA-Forms-steps/index.html",
+    "main.4781550e.css.map": "/RA-Forms-steps/static/css/main.4781550e.css.map",
+    "main.249ac68c.js.map": "/RA-Forms-steps/static/js/main.249ac68c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4781550e.css",
+    "static/js/main.249ac68c.js"
+  ]
+}
